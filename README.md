@@ -1,1 +1,3 @@
-# qm-tg-data-2026
+# tollgate-data-2026
+
+Data for a technical exercise.
